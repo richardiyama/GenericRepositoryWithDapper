@@ -21,6 +21,7 @@ using Dapper;
 using GenericRepositoryAndDapper.Repository;
 
 using System.Configuration;
+
 using System.Data.SqlClient;
 
 namespace GenericRepositoryAndDapper.Controllers
