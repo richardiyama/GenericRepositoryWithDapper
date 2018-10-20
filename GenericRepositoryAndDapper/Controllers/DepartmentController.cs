@@ -19,6 +19,7 @@ using GenericRepositoryAndDapper.Models;
 using Dapper;
 
 using GenericRepositoryAndDapper.Repository;
+
 using System.Configuration;
 using System.Data.SqlClient;
 
